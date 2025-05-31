@@ -40,7 +40,9 @@ A step-by-step guide to building an aesthetic and efficient Linux environment wi
 - Custom configurations for **GNOME**, **i3**, and more  
 
 ---
-
+<p align="center">
+  <img src="<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=475001" style='border:none;'></iframe>" />
+</p>
 ## 💡 What I'm Learning
 
 - **Golang** for building high-performance OSINT tools  
