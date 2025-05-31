@@ -40,10 +40,6 @@ A step-by-step guide to building an aesthetic and efficient Linux environment wi
 - Custom configurations for **GNOME**, **i3**, and more  
 
 ---
-<p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/kaushik0x001.png">
-</p>
-
 
 ## 💡 What I'm Learning
 
@@ -66,3 +62,7 @@ I'm always looking for exciting collaborations in **cybersecurity**, **AI-driven
 
 📫 Reach me at: [Proton](mailto:kaushik.exe@protonmail.com)  
 💼 Connect on [LinkedIn](https://www.linkedin.com/in/0xkaushik/)  
+<p align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/kaushik0x001.png">
+</p>
+
