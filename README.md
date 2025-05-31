@@ -40,8 +40,9 @@ A step-by-step guide to building an aesthetic and efficient Linux environment wi
 - Custom configurations for **GNOME**, **i3**, and more  
 
 ---
-
-<img src="<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=475001" style='border:none;'></iframe>" />
+<p align="center">
+  <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=475001" alt="TryHackMe Badge"/>
+</p>
 
 ## 💡 What I'm Learning
 
