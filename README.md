@@ -41,8 +41,9 @@ A step-by-step guide to building an aesthetic and efficient Linux environment wi
 
 ---
 <p align="center">
-  <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=475001" alt="TryHackMe Badge"/>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/kaushik0x001.png">
 </p>
+
 
 ## 💡 What I'm Learning
 
