@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm a cybersecurity professional with a passion for **adve
 
 - **Cybersecurity Enthusiast:** Specialized in **penetration testing**, **OSINT**, and **vulnerability assessment**.
 - **Developer:** Proficient in programming languages like **Python**, **C**, **C++**, **Java**, **Assembly**, **Bash**, and **JavaScript**.
-- **Trainer:** Mentored over 150 students in **Python**, **Linux**, **Web Development**, and **Ethical Hacking**.
+- **Trainer:** Mentored over 400 students in **Python**, **Linux**, **Web Development**, and **Ethical Hacking**.
 - **Tech Aesthetician:** I enjoy customizing Linux environments, creating minimalist setups with tools like **Arch Linux**, **Openbox**, **i3**, **Polybar**, **Rofi**, and **pywal**.
 - **Physical Security Enthusiast:** Exploring **covert entry techniques**, **lockpicking**, and methods to bypass physical security.
 - **Innovator:** Currently building AI-driven **OSINT** and cybersecurity projects, focusing on open-source tools that prioritize awareness and actionable insights.
